@@ -1,20 +1,20 @@
 # Lab 01 - Submission
 
 Fill in each section below. The automated check (and your TA) will look for
-real answers here - the `TODO`s must be gone before the check turns green.
+real answers here - the s must be gone before the check turns green.
 
 ## Name
 
-TODO - your full name
+Sayen Mayuran
 
 ## What I learned
 
-TODO - two or three sentences on something that clicked this lab
+Learned the git workflow and how issues and pull requests can help organize the team. Learned better git practices to keep in mind.
 
 ## A Git command I will remember
 
-TODO - name one command and say, in a sentence, when you'd reach for it
+git status
 
 ## Evidence (links)
 
-- Merged pull request: TODO (paste the PR URL)
+https://github.com/SayenM/lab-01-git-github-SayenM/pull/2
